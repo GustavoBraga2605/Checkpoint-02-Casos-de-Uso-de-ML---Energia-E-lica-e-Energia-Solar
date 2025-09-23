@@ -7,6 +7,8 @@ Murilo Justino Arcanjo / RM: 565470
 
 Rafael Quattrer Dalla Costa / RM: 562052
 
+## Sobre
+
 Este projeto tem como objetivo aplicar técnicas de **Machine Learning** em diferentes bases de dados relacionadas à geração e consumo de energia, tanto solar quanto eólica, bem como estabilidade de redes elétricas.  
 
 ## Estrutura do Projeto
